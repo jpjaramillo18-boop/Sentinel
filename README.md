@@ -40,7 +40,7 @@ Usa estos archivos como base de:
 06-Emojis → chat, email, sms  
 07-Modales → cómo crearlos correctamente 
 08-Nombres de productos → referencia práctica  
-09-Uso de mayúsculas
+09-Uso de mayúsculas → situaciones de uso en nuestros productos
 
 ---
 
