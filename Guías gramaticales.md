@@ -138,7 +138,7 @@ Estandarizar reglas gramaticales para asegurar claridad, consistencia y tono coh
 
 ## 📌 Regla
 - Usar “Hola” + nombre del usuario
-- Para empresas, usar nombre directo
+- Para empresas, usar nombre directo. Evitar el "Hola" al saludar.
 - Evitar formalismos como “Estimado”
 
 ## ✔ Ejemplo correcto
@@ -148,6 +148,7 @@ Estandarizar reglas gramaticales para asegurar claridad, consistencia y tono coh
 ## ❌ Ejemplo incorrecto
 - Estimado Carlos
 - Hola estimado usuario
+- Hola, Corporación El Rosado
 
 ---
 
